@@ -7,6 +7,12 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=zabi2404&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
 
+### 🔹 University Account — 2022f-mulbscs-100-del
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=2022f-mulbscs-100-del&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=2022f-mulbscs-100-del&theme=dark&hide_border=true&cache_seconds=86400" />
+</p>
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
